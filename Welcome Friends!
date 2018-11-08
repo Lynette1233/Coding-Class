@@ -3,15 +3,17 @@
 	<head1>
    	<title>Coding
 	</title>
-    	<style type="blue/css">
-	     body {
-	        border-style: soild;
-	        border-color: blue;
-	        border-width: medium;
-	        background-image: url("https://img-aws.ehowcdn.com/350x235p/photos.demandstudios.com/getty/article/83/74/92824523_XS.jpg");
-    body }
-        </style>
-    <body>
+
+    <style type="text/css">
+        body {
+            border-style: solid;
+            border-color: blue;
+            background-color: silver;
+}
+</style>
+<head/>
+<body>
+
 	<center><p>I love animals, Voltron, Percabeth and GaLaXiEs!</p></center>
 <center><a href="https://www.youtube.com/watch?v=jubtOu-mEm0">A beautiful Video and Song!</a>
     </body></center>
@@ -22,4 +24,4 @@
 <ul>Animals are love, they are life.(Especially dogs, but i'm not judging.)
 I'm a Voltron noob, but i've watched every season and am anxiously waiting for season 8.
 Percabeth is beautiful and I love it! Ultimate ship!
-Galaxies. They need no explanation.
+Galaxies. They need no explanation.</ul>
