@@ -9,7 +9,7 @@
 	        border-color: blue;
 	        border-width: medium;
 	        background-image: url("https://img-aws.ehowcdn.com/350x235p/photos.demandstudios.com/getty/article/83/74/92824523_XS.jpg");
-	}
+    body }
         </style>
     <body>
 	<center><p>I love animals, Voltron, Percabeth and GaLaXiEs!</p></center>
