@@ -1,0 +1,22 @@
+<html>
+    <head> Welcome!</head>
+        <body> Body goes here! 
+<a href="website url">name</a>
+<img src="image url">
+<p>Paragraph</p>
+<ul>unordered list</ul>
+<ol>ordered list</ol>
+</body>
+
+
+<head>
+    <style type="text/css">
+        body {
+            border-style: solid;
+            border-color: blue;
+            background-color: silver;
+}
+</style>
+<head/>
+<body>
+</html>
