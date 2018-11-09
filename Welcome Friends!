@@ -7,7 +7,7 @@
 	     body {
 	        border-style: soild;
 	        border-color: blue;
-                          background-color: teal;
+                          background-color: #66D5D6;
 	      
 	}
         </style>
