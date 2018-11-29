@@ -1,0 +1,13 @@
+<html>
+	<center><head1>Hello!</center>
+	<head1>
+   	<title>Coding
+	</title>
+    	<style type="blue/css">
+	     body {
+	        border-style: soild;
+	        border-color: blue;
+	        border-width: medium;
+	        background-image: url("https://img-aws.ehowcdn.com/350x235p/photos.demandstudios.com/getty/article/83/74/92824523_XS.jpg");
+	}
+        </style>
